@@ -2,16 +2,10 @@
 
 Techincal Cooperation Project objectives are:
 
-Simplified and standardized approach to electronic contracts, with ability to prepare and sign them online;
-
-Digitization of key contract parameters available for public tracking and analysis;
-
-Effortless and automatic registration of ProZorro e-procurement platform contracts into the State Treasury of Ukraine;
-
-Reduced risk of unintentional mistakes and elimination of manipulations.
-
-
-Techincal Cooperation Project objectives are:
+* Simplified and standardized approach to electronic contracts, with ability to prepare and sign them online;
+* Digitization of key contract parameters available for public tracking and analysis;
+* Effortless and automatic registration of ProZorro e-procurement platform contracts into the State Treasury of Ukraine;
+* Reduced risk of unintentional mistakes and elimination of manipulations.
 
 > 
 
@@ -25,12 +19,12 @@ Techincal Cooperation Project objectives are:
 
 ### Functional Documentation
 
- - [... and business process for eContracting](/documentation/functional/___-for-eContracting.pdf)
+ - [Business process and workflow for e-Contracting in ProZorro](/documentation/functional/Business-process-and-workflow-for-e-Contracting-in-ProZorro.pdf)
 
 ### Technical Documentation
 
 - [ProZorro API docs: eContracting](https://prozorro-api-docs.readthedocs.io/en/master)
- - [Price Quotation procedure: Report from development](/documentation/technical/eContracting-Report-from-development.pdf)
+- [e-Contracting solution: Report from development](/documentation/technical/e-Contracting-solution-Report-from-development.pdf)
 
 ### Development Environment Documentation
 
