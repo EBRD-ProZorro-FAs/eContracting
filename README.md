@@ -12,8 +12,9 @@ Techincal Cooperation Project objectives are:
 ## Source Code
 
  - [openprocurement.api](https://github.com/EBRD-ProZorro-FAs/openprocurement.api) - Open Procuerement API
- - [repo2](https://github.com/EBRD-ProZorro-FAs/repo2) - Repository 2 Name
- - [repo3](https://github.com/EBRD-ProZorro-FAs/repo3) - Repository 3 Name
+ - [openprocurement.bridge.templatesregistry](https://github.com/EBRD-ProZorro-FAs/openprocurement.bridge.templatesregistry) - Bot that integrates Contract Templates into Tendering Process
+ - [web-renderer](https://github.com/EBRD-ProZorro-FAs/web-renderer) - Structured Electronic Document Renderer
+ - [openprocurement.bridge.rbot](https://github.com/EBRD-ProZorro-FAs/openprocurement.bridge.rbot) - Bot that integrates Electronic Document Renderer into Tendering Process
 
 ## Documentation
 
@@ -23,14 +24,15 @@ Techincal Cooperation Project objectives are:
 
 ### Technical Documentation
 
-- [ProZorro API docs: eContracting](https://prozorro-api-docs.readthedocs.io/en/master)
+- [ProZorro API docs: eContracting](https://prozorro-api-docs.readthedocs.io/en/master/tendering/tutorial.html#e-contracting)
 - [e-Contracting solution: Report from development](/documentation/technical/e-Contracting-solution-Report-from-development.pdf)
 
 ### Development Environment Documentation
 
  - [openprocurement.api](https://github.com/EBRD-ProZorro-FAs/openprocurement.api#documentation)
- - [repo2](https://github.com/EBRD-ProZorro-FAs/repo2#development)
- - [repo3](https://github.com/EBRD-ProZorro-FAs/repo3#development)
+ - [openprocurement.bridge.templatesregistry](https://github.com/EBRD-ProZorro-FAs/openprocurement.bridge.templatesregistry#installing)
+ - [web-renderer](https://github.com/EBRD-ProZorro-FAs/web-renderer#run-tests)
+ - [openprocurement.bridge.rbot](https://github.com/EBRD-ProZorro-FAs/openprocurement.bridge.rbot#development)
 
 ### Summary case study
 
