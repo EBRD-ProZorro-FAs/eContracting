@@ -36,5 +36,4 @@ Techincal Cooperation Project objectives are:
 
 ### Summary case study
 
-* [Assistance with piloting Framework Agreements (C43067). eContracting](
-https://github.com/EBRD-ProZorro-FAs/eContracting/wiki/Summary-Case-Study) 
+* [Assistance with piloting Framework Agreements (C43067). eContracting](https://github.com/EBRD-ProZorro-FAs/eContracting/wiki) (wiki)
